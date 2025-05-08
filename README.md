@@ -31,7 +31,7 @@ I'm a passionate developer focused on building impactful solutions using **Machi
 
 ---
 
-### 📫 Let's Connect!
- • [LinkedIn](https://www.linkedin.com/in/priyanshu-kanyal-9a810b214/) • [GitHub](https://github.com/PriyanshuKanyal37)
+### 📫 Let's Connect! 
+ • [LinkedIn](https://www.linkedin.com/in/priyanshu-kanyal-9a810b214/) 
 
 ---
