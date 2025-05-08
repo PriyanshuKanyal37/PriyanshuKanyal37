@@ -35,5 +35,6 @@ I'm a passionate developer focused on building impactful solutions using **Machi
 
 ### 📫 Let's Connect! 
  • [LinkedIn](https://www.linkedin.com/in/priyanshu-kanyal-9a810b214/) 
+  **Email:** priyanshukanyal37@gmail.com
 
 ---
