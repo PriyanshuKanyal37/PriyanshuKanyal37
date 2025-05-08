@@ -27,12 +27,11 @@ I'm a passionate developer focused on building impactful solutions using **Machi
 ---
 
 ### 📈 GitHub Stats
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuKanyal37&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuKanyal37&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
-[Portfolio](https://priyanshukanyal37.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/priyanshu-kanyal-9a810b214/) • [GitHub](https://github.com/PriyanshuKanyal37)
+ • [LinkedIn](https://www.linkedin.com/in/priyanshu-kanyal-9a810b214/) • [GitHub](https://github.com/PriyanshuKanyal37)
 
 ---
