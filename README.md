@@ -1,26 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b35,100:0d1117&height=220&section=header&text=Priyanshu%20Kanyal&fontSize=68&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Full-Stack%20AI%20Developer&descAlignY=57&descSize=20&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b35,100:0d1117&height=220&section=header&text=Priyanshu%20Kanyal&fontSize=68&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20Engineer%20%E2%80%A2%20LLM%20Systems%20Engineer&descAlignY=57&descSize=19&descColor=8b949e" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🎙️+Building+Real-Time+Voice+AI+Pipelines;🔍+Designing+Agentic+RAG+Systems;🤖+Orchestrating+LLMs+at+Production+Scale;⚡+Full-Stack+AI+Apps+—+Zero+to+Deployed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Real-Time+Voice+AI+Pipelines;Designing+Agentic+RAG+Systems;Orchestrating+LLMs+at+Production+Scale;Machine+Learning+%7C+LLM+Systems+%7C+AI+Engineering" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/priyanshu-kanyal-9a810b214/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:priyanshukanyal37@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=PriyanshuKanyal37&label=Profile+Views&color=58a6ff&style=flat-square" />
 
 </div>
 
@@ -173,11 +169,11 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/priyanshu-kanyal-9a810b214/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:priyanshukanyal37@gmail.com">
-  <img src="https://img.shields.io/badge/Write_to_me_on_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
 
 </div>
