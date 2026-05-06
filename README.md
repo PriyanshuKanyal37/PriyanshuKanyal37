@@ -29,7 +29,6 @@
 - 🧠 &nbsp; Work at the intersection of **Language Models**, **Applied ML**, and **Backend Engineering**
 - 🔧 &nbsp; Former Intern @ **Salesforce** — hands-on exposure to production AI systems
 - 🚀 &nbsp; Passionate about AI that **ships, scales, and keeps working at 3 AM**
-- 📍 &nbsp; Based in **India** 🏔️
 
 ---
 
