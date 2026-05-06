@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Building+Real-Time+Voice+AI+Pipelines...;Designing+Agentic+RAG+Systems...;Orchestrating+LLMs+at+Production+Scale...;Machine+Learning+%7C+LLM+Systems+%7C+AI+Engineering..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=Building+Real-Time+Voice+AI+Pipelines...;Designing+Agentic+RAG+Systems...;Orchestrating+LLMs+at+Production+Scale...;Machine+Learning+%7C+LLM+Systems+%7C+AI+Engineering...;Designing+Multi-Step+Reasoning+Chains+with+LLMs...;Building+Tool-Calling+Agents+that+Actually+Work...;Multi-Provider+LLM+Routing+%26+Model+Orchestration...;Implementing+Hybrid+Search+%2B+Semantic+Re-Ranking...;Engineering+Swarm+Intelligence+with+Multi-Agents...;Benchmarking+LLMs+for+Cost%2C+Speed+%26+Accuracy...;Building+Memory+Systems+for+Long-Context+AI+Apps...;Turning+Raw+Data+into+Intelligent+RAG+Pipelines..." alt="Typing SVG" />
 
 <br/><br/>
 
