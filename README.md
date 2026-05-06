@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,40:1a1a4e,100:0d1117&height=210&section=header&text=Priyanshu%20Kanyal&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20Full-Stack%20AI%20Developer&descAlignY=57&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b35,100:0d1117&height=220&section=header&text=Priyanshu%20Kanyal&fontSize=68&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Full-Stack%20AI%20Developer&descAlignY=57&descSize=20&descColor=8b949e" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Real-Time+Voice+AI+Pipelines+%F0%9F%8E%99%EF%B8%8F;Designing+Agentic+RAG+Systems+%F0%9F%94%8D;Orchestrating+LLMs+at+Production+Scale+%F0%9F%A4%96;Full-Stack+AI+Apps+%E2%80%94+Zero+to+Deployed+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🎙️+Building+Real-Time+Voice+AI+Pipelines;🔍+Designing+Agentic+RAG+Systems;🤖+Orchestrating+LLMs+at+Production+Scale;⚡+Full-Stack+AI+Apps+—+Zero+to+Deployed" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,86 +19,74 @@
 </a>
 
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=PriyanshuKanyal37&label=Profile+Views&color=58a6ff&style=flat-square" />
 
 </div>
 
 ---
 
-## 🧬 Who I Am
+## 🧬 About Me
 
-I'm an **AI/LLM Engineer** passionate about building production-grade intelligent systems — from real-time voice agents and agentic RAG pipelines to full-stack AI-powered applications. I work at the intersection of language models, backend engineering, and applied ML to create systems that are fast, scalable, and genuinely impactful.
-
-My focus is on AI that *actually works in production* — not just impressive demos. Whether it's designing how an LLM reasons across multiple steps, wiring real-time speech into sub-second response loops, or deploying a full-stack AI app end to end — I build it, ship it, and make it reliable.
-
-> *"The best AI system is the one that ships, scales, and keeps working at 3 AM."*
+- 🤖 &nbsp; **AI / LLM Engineer** — designing and shipping production-grade intelligent systems
+- 🎙️ &nbsp; Specialized in **Voice AI**, **Agentic RAG**, and **LLM Orchestration**
+- ⚡ &nbsp; **Full-Stack AI Developer** — React frontends · FastAPI backends · Vector databases
+- 🏗️ &nbsp; **Backend Engineer** — Async APIs · WebSocket streams · scalable microservices
+- 🧠 &nbsp; Work at the intersection of **Language Models**, **Applied ML**, and **Backend Engineering**
+- 🔧 &nbsp; Former Intern @ **Salesforce** — hands-on exposure to production AI systems
+- 🚀 &nbsp; Passionate about AI that **ships, scales, and keeps working at 3 AM**
+- 📍 &nbsp; Based in **Uttarakhand, India** 🏔️
 
 ---
 
 ## 🚀 What I Build
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+<br/>
 
-### 🎙️ Real-Time Voice AI Systems
-End-to-end voice agent pipelines — speech recognition → LLM reasoning → speech synthesis — with live interruption handling and sub-second latency. Built for real conversations, not toy demos.
+🎙️ &nbsp; **Real-Time Voice AI Pipelines**
+> End-to-end voice agent systems — STT → LLM → TTS — with live interruption handling and sub-second latency. Built for real conversations, not toy demos.
 
-</td>
-<td valign="top" width="50%">
+---
 
-### 🔍 Agentic RAG Architectures
-Multi-step retrieval pipelines with hybrid search, semantic re-ranking, metadata filtering, and LLM-driven reasoning over large, dynamic knowledge bases.
+🔍 &nbsp; **Agentic RAG Systems**
+> Multi-step retrieval pipelines with hybrid search, semantic re-ranking, metadata filtering, and LLM-driven reasoning over large, dynamic knowledge bases.
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+---
 
-### 🤖 LLM Orchestration Systems
-Multi-model routing engines, tool-calling agents, persistent memory management, and cost-efficient prompt chains — LLM systems built to scale without burning your API budget.
+🤖 &nbsp; **LLM Orchestration Systems**
+> Multi-model routing engines, tool-calling agents, persistent memory, and cost-efficient prompt chains — production-ready LLM systems that scale without burning API budgets.
 
-</td>
-<td valign="top" width="50%">
+---
 
-### ⚡ Full-Stack AI Applications
-React frontends + async FastAPI backends + vector databases — complete, deployable AI-powered web applications, from the first line of code to the cloud.
+⚡ &nbsp; **Full-Stack AI Applications**
+> React frontends + async FastAPI backends + vector databases — complete, deployable AI-powered apps built from scratch to cloud.
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+---
 
-### 🔄 AI-Powered Automation Workflows
-End-to-end automation pipelines that replace manual processes with intelligent agents — designed for reliability and real business impact.
+🔄 &nbsp; **AI-Powered Automation Workflows**
+> Intelligent agent pipelines replacing manual, repetitive processes — designed for reliability and real business impact.
 
-</td>
-<td valign="top" width="50%">
+---
 
-### 🏗️ Production AI Backends
-High-performance async APIs, WebSocket streams, and scalable microservices powering AI features — low latency, clean architecture, production-hardened.
+🏗️ &nbsp; **Production AI Backends**
+> High-performance async APIs and WebSocket streams powering AI features at scale — low latency, clean architecture, battle-hardened for production.
 
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
 ## 🔭 Currently Exploring
 
-<div align="center">
-
-| 🧩 Multi-Agent Frameworks | 🗜️ LLM Cost Optimization | 🎤 Voice AI Interruption Handling | 📐 Advanced Prompt Engineering |
-|:---:|:---:|:---:|:---:|
-| Swarm orchestration & agent coordination | Token efficiency & smart routing strategies | Real-time context & live turn management | Chain architectures & prompt design patterns |
-
-</div>
+- 🧩 &nbsp; **Multi-Agent Frameworks** — Swarm orchestration & coordinated agent systems
+- 🗜️ &nbsp; **LLM Cost Optimization** — Token efficiency, smart caching & model routing strategies
+- 🎤 &nbsp; **Voice AI Interruption Handling** — Real-time context switching & live turn management
+- 📐 &nbsp; **Advanced Prompt Engineering** — Chain architectures, meta-prompting & structured reasoning
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI / LLM Ecosystem
+### 🧠 &nbsp; AI / LLM Ecosystem
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -110,13 +98,13 @@ High-performance async APIs, WebSocket streams, and scalable microservices power
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0096FF?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-### 🎙️ Voice AI
+### 🎙️ &nbsp; Voice AI
 
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=for-the-badge&logo=deepgram&logoColor=white)
 ![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🐍 Languages
+### 🐍 &nbsp; Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -124,7 +112,7 @@ High-performance async APIs, WebSocket streams, and scalable microservices power
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Backend & APIs
+### ⚙️ &nbsp; Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -132,13 +120,13 @@ High-performance async APIs, WebSocket streams, and scalable microservices power
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Async Python](https://img.shields.io/badge/Async_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 Frontend
+### 🎨 &nbsp; Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases & Vector Stores
+### 🗄️ &nbsp; Databases & Vector Stores
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -147,7 +135,7 @@ High-performance async APIs, WebSocket streams, and scalable microservices power
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ &nbsp; Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -156,7 +144,7 @@ High-performance async APIs, WebSocket streams, and scalable microservices power
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🤖 Traditional ML
+### 🤖 &nbsp; Traditional ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -165,12 +153,22 @@ High-performance async APIs, WebSocket streams, and scalable microservices power
 
 ---
 
+## ⚡ Fun Facts
+
+- 🌙 &nbsp; I benchmark LLMs at midnight and debate token costs for fun
+- 🧪 &nbsp; New model drop? I've probably tested it before breakfast
+- 🎯 &nbsp; Latency numbers matter to me — deeply — milliseconds included
+- 💬 &nbsp; I can talk about **prompt engineering patterns** for hours without stopping
+- 🔁 &nbsp; My default mode: **build → break → optimize → repeat**
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
 
-Building something exciting in AI? Have a problem worth solving?  
-I'm always up for a great conversation.
+**Building something ambitious in AI? Have a problem worth solving?**
+**I'm always up for a great conversation. 🚀**
 
 <br/>
 
@@ -186,4 +184,4 @@ I'm always up for a great conversation.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a4e,100:0a0f2c&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b35,100:0d1117&height=130&section=footer" width="100%"/>
